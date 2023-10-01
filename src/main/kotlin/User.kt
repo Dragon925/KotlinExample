@@ -1,0 +1,1 @@
+class User(id: Int, val name: String, val avatarUrl: String?) : Entity(id)
